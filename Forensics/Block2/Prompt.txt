@@ -1,0 +1,7 @@
+Billy runs a minecraft server. He wants to know which block was rolled back. Can you help him?
+
+NONSTANDARD FLAG FORMAT: Insert the unix timestamp of the row into auctf{time_stamp}
+
+https://drive.google.com/open?id=1lxgtuF3zthgrCNEwaJ8k_EdoEymukTMG
+
+author: vincent

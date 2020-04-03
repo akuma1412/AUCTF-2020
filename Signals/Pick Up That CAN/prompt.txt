@@ -1,0 +1,5 @@
+Here's a log of some kind of network traffic. The BASH script will help you set up your tools, and probably give you a hint as to what kind of network this is.
+
+Author: JohnsonJangler
+
+https://drive.google.com/open?id=13hKrkcICfqB1UJ20ScT3E88nBylFNYEF

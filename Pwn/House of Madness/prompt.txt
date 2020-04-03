@@ -1,0 +1,5 @@
+Welcome to the House of Madness. Can you pwn your way to the keys to get the relic?
+
+nc challenges.auctf.com 30012
+
+Author: kensocolo

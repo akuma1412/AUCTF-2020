@@ -1,0 +1,5 @@
+http://challenges.auctf.com:30022
+
+A junior dev built this site but we want you to test it before we send it to production.
+
+Author: shinigami

@@ -1,3 +1,5 @@
 This company is super cool! You should see who made it.
 
 http://devs-r-us.xyz
+
+Author: c

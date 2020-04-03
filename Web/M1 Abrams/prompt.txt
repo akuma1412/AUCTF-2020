@@ -1,0 +1,5 @@
+http://challenges.auctf.com:30024
+
+We built up this server, and our security team seems pretty mad about it. See if you can find out why.
+
+Author: shinigami

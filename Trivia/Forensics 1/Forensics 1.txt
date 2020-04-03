@@ -1,0 +1,3 @@
+Who developed the compression algorithm used to compress Debian's initrdfs image?
+
+Author: FireKing

@@ -1,0 +1,5 @@
+Although most federal agencies are involved in OSINT collection there is one federal agency that is the focal point for the exploitation of open source material. They primarily provide information to important government figures. Also what year was it founded?
+
+flag format - agency:year
+
+Author: FireKing

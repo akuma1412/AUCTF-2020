@@ -1,0 +1,3 @@
+It used to be that you could decrypt a https traffic stream with just the server's private key. What technology made removed that capability?
+
+Author: FireKing

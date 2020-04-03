@@ -1,0 +1,7 @@
+Richard lost his picture in a mySQL table. Can you help him find it?
+
+Standard Flag Format auctf{}
+
+https://drive.google.com/open?id=1D6Oo0DqVsq1PcyiaUDpx6lx6LDCUbmVi
+
+Author: vincent
